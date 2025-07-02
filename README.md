@@ -1,6 +1,6 @@
-# LanguageConnect
+# Video_chat_app
 
-LanguageConnect is a full-stack MERN web app for real-time language exchange. It supports messaging, video calls, screen sharing, and offers a theme-rich, responsive interface. Built with scalability and simplicity in mind using modern tools.
+Video_chat_app is a full-stack MERN web app for real-time language exchange. It supports messaging, video calls, screen sharing, and offers a theme-rich, responsive interface. Built with scalability and simplicity in mind using modern tools.it is an app where user can interact and learn from  each other acroos the globe.
 
 ---
 
